@@ -1,0 +1,9 @@
+body { background: #f4f6fb; }
+.sidebar { min-height: calc(100vh - 56px); background: #fff; border-right: 1px solid #e3e6ef; }
+.sidebar .nav-link { color: #3a4256; border-radius: .5rem; padding: .65rem .9rem; }
+.sidebar .nav-link.active, .sidebar .nav-link:hover { background: #e9efff; color: #1d4ed8; }
+.join-code { font-family: ui-monospace, Menlo, Consolas, monospace; letter-spacing: .25em; font-weight: 700; }
+.join-input { text-transform: uppercase; letter-spacing: .3em; font-size: 1.6rem; text-align: center; font-family: ui-monospace, Menlo, monospace; }
+.card { border: 0; border-radius: .9rem; }
+.btn-lg { padding: .9rem 1.2rem; }
+.option-label { font-size: 1.1rem; }
